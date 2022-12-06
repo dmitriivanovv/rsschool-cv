@@ -8,9 +8,9 @@
 <p>Веселый и находчивый. </p>
 
 ## Навыки
-* HTML basic
-* CSS basic
-* JS basic
+* HTML elementary
+* CSS elementary
+* JS elementary
 
 ## Пример кода 
 ```
